@@ -2,7 +2,7 @@
   "name": "HomePage",
   "short_name": "HomePage",
   "description": "A modern web app for organizing and managing your website links",
-  "start_url": "/homepage.html?pwa=true",
+  "start_url": "/homepage/homepage.html?pwa=true",
   "display": "standalone",
   "background_color": "#667eea",
   "theme_color": "#667eea",
