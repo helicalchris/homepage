@@ -1,4 +1,5 @@
-# Personal Homepage
+# HomePage
+## A quick to use homepage application to manage your links
 
 A self-contained, quick to use personal homepage application featuring a modern card-based interface for organizing your favorite links and services. Built with the OpenWebUI design aesthetic and includes Docker container status monitoring via Portainer integration.
 
