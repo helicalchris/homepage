@@ -233,7 +233,3 @@ Contributions are welcome! This project is designed to be AI-friendly:
 
 **Made with ❤️ for the self-hosted community**
 
-
-7. Test all configuration options
-8. Add any additional setup instructions specific to your environment
--->
