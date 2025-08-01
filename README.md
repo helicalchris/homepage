@@ -1,6 +1,12 @@
 # Personal Homepage
 
-A self-contained, AI-friendly personal homepage application featuring a modern card-based interface for organizing your favorite links and services. Built with the OpenWebUI design aesthetic and includes Docker container status monitoring via Portainer integration.
+A self-contained, quick to use personal homepage application featuring a modern card-based interface for organizing your favorite links and services. Built with the OpenWebUI design aesthetic and includes Docker container status monitoring via Portainer integration.
+
+It was designed to help with self hosted labs where you have too many links into containers to keep track of, and you need an easy way to manage the links. it was built using AI and is probably best updated using AI as having it all in one file inevitably makes it difficult to work with.
+
+It can just be loaded from the github URL if you are online, or as a local file if necessary.  If loaded from github, you can also install it as a PWA (see instructions below) to have an 'app like' experience.
+
+⚠️ **It is not designed for use with sensitive data** - the security is cosmetic and is only keeping cleartext passwords out of local files.
 
 
 ## 🌟 Features
