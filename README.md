@@ -43,20 +43,19 @@ If loaded from github, you can also install it as a PWA (see instructions below)
 
 ### Basic Setup
 
-1. **Download**: Clone this repository or download `homepage.html`
-   ```bash
-   git clone [YOUR_GITHUB_REPO_URL]
+1. **Download**: Download homepage.html (and, if you want to make it a local
+app using PWA, also manifest.json and icons)
    ```
 
 2. **Open**: Simply open `homepage.html` in your web browser
    - **Local File**: `file:///path/to/homepage.html`
-   - **Web Server**: Host on any HTTP/HTTPS server
+   - **Web Server**: Ise the link to github pages at the start of this readme
 
 3. **Configure**: Edit the configuration section at the top of the file (see [Configuration](#configuration))
 
 ### PWA Installation
 
-To use as a Progressive Web App:
+To use as a Progressive Web App, which will cache locally and work offline if needed:
 
 1. Add `?PWA=true` to the URL: `homepage.html?PWA=true`
 2. Your browser will show an "Install App" button
