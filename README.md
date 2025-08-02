@@ -3,7 +3,7 @@
 
 A self-contained, instant personal homepage application featuring a modern card-based interface for organizing your favorite links and services. Built with the OpenWebUI design aesthetic and includes Docker container status monitoring via Portainer integration.
 
-The _key feature_ is that it _just works_ using the browser's localStorage only and can accept multiple site IDs. What does this mean? Well you just need to use this link anywhere on any computer and it will run without dependencies with a unique local instance. The storage persists between uses, and using the siteID parameter you cna run multiple versions without clashes.
+The _key feature_ is that it _just works_ using the browser's localStorage only and can accept multiple site IDs. What does this mean? Well you just need to use this link anywhere on any computer and it will run without dependencies with a unique local instance. The storage persists between uses, and using the siteID parameter you can run multiple versions without clashes.
 
 It can be loaded from the github URL if you are online using this link:
 
