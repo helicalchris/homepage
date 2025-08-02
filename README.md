@@ -1,11 +1,11 @@
 # HomePage
 ## A quick to use homepage application to manage your links
 
-A self-contained, quick to use personal homepage application featuring a modern card-based interface for organizing your favorite links and services. Built with the OpenWebUI design aesthetic and includes Docker container status monitoring via Portainer integration.
+A self-contained, instant personal homepage application featuring a modern card-based interface for organizing your favorite links and services. Built with the OpenWebUI design aesthetic and includes Docker container status monitoring via Portainer integration.
 
-It was designed to help with self hosted labs where you have too many links into containers to keep track of, and you need an easy way to manage the links. it was built using AI and is probably best updated using AI as having it all in one file inevitably makes it difficult to work with.
+The _key feature_ is that it _just works_ using the browser's localStorage only and can accept multiple site IDs. What does this mean? Well you just need to use this link anywhere on any computer and it will run without dependencies with a unique local instance. The storage persists between uses, and using the siteID parameter you cna run multiple versions without clashes.
 
-It can just be loaded from the github URL if you are online using this link:
+It can be loaded from the github URL if you are online using this link:
 
 https://helicalchris.github.io/homepage/homepage.html
 
@@ -13,7 +13,7 @@ https://helicalchris.github.io/homepage/homepage.html
 
 If loaded from github, you can also install it as a PWA (see instructions below) to have an 'app like' experience.
 
-⚠️ **It is not designed for use with sensitive data** - the security is cosmetic and is only keeping cleartext passwords out of local files.
+⚠️ **It is not designed for use with sensitive data** - any appearance of security of stored data is cosmetic and is only obscuring cleartext passwords out of local files.
 
 
 ## 🌟 Features
